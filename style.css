@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif !important;
+    font-size: 4rem !important;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif !important;
+    color: #fff !important;
+    line-height: 60px !important;
+}
+
+
+h3 {
+    font-family: 'Times New Roman', Times, serif !important; 
+}
+
+header {
+    background-color: #ff4c68;
+}
+
+a {
+    color: #fff !important;
+}
+
+.navbar-brand {
+    color: #fff !important;
+    font-size: 2rem !important;
+}
+
+.navbar {
+    background-color: #ff4c68 !important;
+}
+
+.card {
+    border: 0px solid rgba(0,0,0,.125) !important;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+.title h1 {
+    color: #fff;
+}
+
+
+
+.services i{
+    color: #ef8172;
+    
+}
+
+
+
+.text-muted{
+    font-size: 20px;
+}
+
+.carousel {
+    background-color: #ef8172;  
+    padding-top: 50px;
+    padding-bottom: 50px; 
+}
+
+.carousel-item img {
+    border-radius: 50%;
+    width: 100px !important;
+    margin-right: 25px;
+}
+
+.tx-depo {
+    color: #fff;
+    font-style: italic;    
+}
+
+.logos {
+    margin-top: 35px;
+}
+
+
+.price {
+    padding: 150px 0px 150px 0px;
+}
+
+.price .card-text {
+    line-height: 35px;
+}
+
+.app {
+    background-color: #ff4c68 !important; 
+    padding: 150px;
+}
+
+.tx-app {    
+    font-size: 4rem;
+    line-height: 100px;
+    color: #fff;
+}
+
+.icons i{
+    padding: 10px;
+}
+
+footer {
+    padding: 85px;
+}
+
+.copy {
+    margin-top: 15px;
+
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
